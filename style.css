@@ -81,6 +81,10 @@ h2 {
     padding-right: 1.25rem;
 }
 
+.hero-section img{
+    width: 600px;
+}
+
 .hero-section .button {
     position: relative;
 }
