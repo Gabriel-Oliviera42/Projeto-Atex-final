@@ -105,15 +105,6 @@ h2 {
     position: relative;
 }
 
-.decoration::after {
-    content: '';
-    background: url(imagem/three-dashes.svg);
-    position: absolute;
-    top: -0.85rem;
-    height: 36px;
-    width: 40px;
-}
-
 .courses-section {
     padding-bottom: 8rem;
 }
@@ -149,7 +140,7 @@ h2 {
 .card a {
     display: block;
     margin: 3rem 0 0 auto;
-    width: fi;
+    width: fit-content;
 }
 
 /* rodapé */
