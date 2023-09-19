@@ -1,1 +1,5 @@
-projeto ATEX FINAL
+Projeto ATEX - Versão Final
+
+Durante meu período na faculdade, desenvolvemos um projeto que envolveu a criação de um site utilizando HTML e CSS. Porém, ao finalizar o projeto, não fiquei satisfeito com o resultado. Decidi investir meu tempo nas férias aprimorando minhas habilidades em HTML e CSS e, como resultado desse esforço, apresento agora a versão aprimorada deste site.
+
+É importante mencionar que a maior parte do design foi inspirada em vídeos do YouTube, uma vez que essa não é minha área de especialização. Em particular, destaco o valioso conteúdo do canal OneBitCode, que me proporcionou insights essenciais para o desenvolvimento deste projeto. Caso alguém tenha interesse, é possível conferir o vídeo específico que me serviu de referência para o design https://www.youtube.com/watch?v=Wo7UnH8TYbc&t=1586s&ab_channel=OneBitCode.
