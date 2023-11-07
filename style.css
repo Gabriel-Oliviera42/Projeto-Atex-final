@@ -105,6 +105,10 @@ h2 {
     position: relative;
 }
 
+.text-information {
+    font-size: 2rem;
+}
+
 .courses-section {
     padding-bottom: 8rem;
 }
@@ -188,6 +192,11 @@ footer nav a {
 
 .mb-2 {
     margin-bottom: 2rem;
+}
+
+.mrl-2 {
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 .mx-auto {
