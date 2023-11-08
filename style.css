@@ -122,6 +122,12 @@ h2 {
     margin-bottom: 4rem;
 }
 
+.met {
+    margin-top: 0rem;
+    margin-bottom: -6rem;
+}
+
+
 .card {
     background-color: var(--cor-primaria);
     border: 2px solid var(--cor-preta);
