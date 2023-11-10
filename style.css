@@ -136,10 +136,6 @@ h2 {
     padding: 2rem 0 0 2rem;
 }
 
-.card img {
-    width: 100px;
-}
-
 .card:nth-child(2n) {
     align-self: end;
     background-color: var(--cor-secundaria);
